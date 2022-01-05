@@ -10,8 +10,7 @@
 
 本書の正誤情報は以下のページで公開しています。
 
-https://github.com/oreilly-japan/concurrency-in-go-support/wiki/errata
-★Wikiページに作成してリンク
+https://github.com/oreilly-japan/seeking-sre-support/wiki/errata
 
 本ページに掲載されていない誤植など間違いを見つけた方は、 `japan@oreilly.co.jp <mailto:japan@oreilly.co.jp>`_ までメールでお知らせいただくか、本レポジトリのIssueまでご連絡ください。
 
