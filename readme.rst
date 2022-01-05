@@ -8,7 +8,7 @@
 正誤表
 -------------
 
-本書の正誤情報は以下のページで公開しています。
+本書の正誤情報は以下のページで公開しています。。
 
 https://github.com/oreilly-japan/seeking-sre-support/wiki/erratas
 
